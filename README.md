@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dali Selmi</h1>
-<h3 align="center">A Data Science / ML enthusiast from Tunisia </h3>
-<h4 align="center">I'm a software engineering student 💻, a data science enthusiast, a cinephile 🎬, and an anime lover. I am passionate about AI and machine learning. I am constantly seeking to discover and learn new technologies. I enjoy watching and discussing movies. I am also an avid football fan ⚽ and enjoy playing and watching the sport. I am currently looking for a summer internship in the field of data science to further my skills and gain real-world experience. I am excited to connect with professionals in the industry and learn from their experiences.</h4>
+<h3 align="center">Software Engineer, AI & ML enthusiast from Tunisia </h3>
+<h4 align="justify">I'm a software engineering student 💻, a data science enthusiast, a cinephile 🎬, and an anime lover. I am passionate about AI, machine learning and System design . I am constantly seeking to discover and learn new technologies. I enjoy watching and discussing movies. I am also an avid football fan ⚽ and enjoy playing and watching the sport. I'm currently seeking opportunities to further develop my skills in development, system design and software architecture. I'm eager to connect with professionals in the industry to learn from their experiences and insights. Let's connect and chat about all things tech!</h4>
 
 [![](https://visitcount.itsvg.in/api?id=mrdaliselmi&icon=0&color=6)](https://visitcount.itsvg.in)
 
@@ -10,6 +10,7 @@
 <a href="https://twitter.com/mr_daliselmi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mr_daliselmi" height="30" width="40" /></a>
 <a href="https://fb.com/mr.daliselmi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mr.daliselmi" height="30" width="40" /></a>
 <a href="https://instagram.com/mr.daliselmi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr.daliselmi" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/mrdali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mrdali" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -36,7 +37,7 @@
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-  <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a>
+  <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://nestjs.com/logo-small-gradient.76616405.svg" alt="nestjs" width="40" height="40"/> </a>
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
   <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a>
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
