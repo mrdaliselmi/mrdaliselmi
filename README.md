@@ -2,7 +2,7 @@
 <h3 align="center">Software Engineer</h3>
 
 <p align="justify">
-I'm a Software Engineer passionate about crafting elegant, scalable, and high-performance software—especially when it involves clever architecture and clean abstractions. 🧩  
+I'm a Software Engineer passionate about crafting elegant, scalable, and high-performance software, especially when it involves clever architecture and clean abstractions. 🧩  
 I love solving complex problems, whether it’s building robust backend systems, fine-tuning front-end UX, or optimizing performance under the hood.  
 I’m deeply interested in software architecture, system design, and automation, and I enjoy bridging the gap between development, tooling, and infrastructure. ⚙️  
 
