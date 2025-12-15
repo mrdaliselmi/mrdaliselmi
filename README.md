@@ -97,11 +97,3 @@ And when it’s game time, I’m cheering for: ⚽️ <b>Real Madrid</b> — Hal
 </div>
 
 <img src="https://raw.githubusercontent.com/mrdaliselmi/mrdaliselmi/output/snake.svg" alt="Snake animation" />
-
-<br />
-<div align="" style="display: flex; flex-wrap: wrap; align-items: start;">
-  <div>
-    <img src="https://github-readme-stats.vercel.app/api?username=mrdaliselmi&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true" alt="GitHub Stats" style="max-width: 100%;"/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrdaliselmi&theme=tokyonight&hide_border=true" alt="GitHub Streak" style="max-width: 100%;"/>
-  </div>
-</div>
