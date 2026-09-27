@@ -7,7 +7,7 @@ I love solving complex problems, whether it’s building robust backend systems,
 I’m deeply interested in software architecture, system design, and automation, and I enjoy bridging the gap between development, tooling, and infrastructure. ⚙️  
 
 When I’m not writing code, you’ll probably find me analyzing films on Letterboxd 🎬, losing to chess engines ♟️, or diving deep into AI and tech innovations 🤖.  
-And when it’s game time, I’m cheering for: ⚽️ <b>Real Madrid</b> — Hala Madrid! 🤍  🏀 <b>LA Lakers</b> — LEBROOOON JAMES! 💜💛  ⚾️ <b>LA Dodgers</b> — Sho Time! 🔵⚪  
+And when it’s game time, I’m cheering for: ⚽️ <b>Real Madrid</b> — Hala Madrid! 🤍  🏀 <b>LA Lakers</b> — LUKA THE DON! 💜💛  ⚾️ <b>LA Dodgers</b> — Sho Time! 🔵⚪  
 </p>
 <br />
 <div align="left">
